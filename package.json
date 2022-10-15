@@ -1,0 +1,20 @@
+{
+  "name": "wallet-i18n-test",
+  "version": "1.0.0",
+  "description": "Welcome to the Hellō Wallet i18n repository! Great to have you here.   In this repository, we coordinate all community-driven translation efforts for [wallet.hello.coop](https://wallet.hello.coop).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohanharikr/wallet-i18n-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohanharikr/wallet-i18n-test/issues"
+  },
+  "homepage": "https://github.com/rohanharikr/wallet-i18n-test#readme"
+}
